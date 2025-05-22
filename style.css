@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'juice';
+    src: url('others/orange\ juice\ 2.0.ttf');
+}
+
+.blob {
+color: #eb7d4d;
+}
+
+.crime {
+    color:  blueviolet;
+    font-family: 'juice';
+    font-size: 20px;
+}
