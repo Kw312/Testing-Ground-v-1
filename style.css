@@ -3,6 +3,11 @@
     src: url('others/orange\ juice\ 2.0.ttf');
 }
 
+@font-face {
+    font-family: 'fancy1';
+    src: url('others/charlotte.ttf');
+}
+
 .blob {
 color: #eb7d4d;
 }
@@ -11,4 +16,9 @@ color: #eb7d4d;
     color:  blueviolet;
     font-family: 'juice';
     font-size: 20px;
+}
+
+.starting_message {
+    font-family: 'fancy1';
+    text-align: center;
 }
